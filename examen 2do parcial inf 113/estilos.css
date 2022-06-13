@@ -1,0 +1,40 @@
+body{
+    background-image:url("Fondo\ .jpg");
+}
+p{
+    color: white;
+    font-family:"Motserrat", sans-serif ;
+}
+h2{
+    color: lime;
+    font-family:"Motserrat", sans-serif ;
+}
+#titulos{
+    color: aqua; 
+    font-family:"Motserrat", sans-serif ;
+    text-align: center;
+}
+#titulo1{
+    color: chartreuse;
+    font-family:"Motserrat", sans-serif ;
+    font-size: 5rem;
+    text-align: center;
+}
+
+.img-generos-video-juegos{
+    padding: 0 300px;
+}
+#link{
+    color: aqua;
+}
+#columnas{
+    color: yellow;
+}
+#index{
+    padding: 0 600px;
+}
+#iniciar{
+    color: white;
+    font-size: 3rem;
+    font-family:"Montserrat", sans-serif ;
+}
